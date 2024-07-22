@@ -22,10 +22,10 @@
   <h3>Frameworks:</h3>
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
-      <img src="https://external-preview.redd.it/ei0DsOk2AURy9qz9HX82moF0BAtKgFC2ZA4wEr2dxi8.jpg?auto=webp&s=44b9388ad3ff4033f718e3bd9a33b34143879ab9" alt="Dot Net MAUI robot" width="40" height="40"/>
+      <img src="https://external-preview.redd.it/ei0DsOk2AURy9qz9HX82moF0BAtKgFC2ZA4wEr2dxi8.jpg?auto=webp&s=44b9388ad3ff4033f718e3bd9a33b34143879ab9" alt="Dot Net MAUI robot" width="50" height="50"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+      <img src="https://www.pragimtech.com/wp-content/uploads/2020/03/blazor-tutorial-for-beginners.png" alt="blazor" width="60" height="50"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -33,32 +33,32 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
   </p>
 
+
   <h3>Languages:</h3>
-  <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-  </p>
+<p style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://nepcodex.com/wp-content/uploads/2019/07/Golang-700x395.png" alt="golang" width="65" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  
+</p>
+
 
   <h3>Libraries:</h3>
   <p style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -70,6 +70,9 @@
     </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    </a>
+     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
   </p>
 
