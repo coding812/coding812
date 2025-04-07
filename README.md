@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding812&label=Profile%20views&color=0e75b6&style=flat" alt="coding812" /> </p>
 
-- 🔭 I’m currently working on [Spiffy, a paper-free commission tracker](https://github.com/coding812/SpiffTracker)
+- 🔭 I’m currently working on [HVAC Helper, A Mobile Tool Kit for Heating and Air-Conditioning Technicians](https://github.com/coding812/Hvac_Helper)
 
-- 🌱 I’m currently learning **Go, with the help of <a href="https://go.dev/">Go.dev Documentation</a> and <a href="https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054">Go Programming - From Beginner to Professional from Packt Publishing</a>**
+- 🌱 I’m currently learning C++, with the help of <a href="https://www.stroustrup.com/4th.html">The C++ Programming Language (4th Edition) by Bjarne Stroustrup</a>
 
 - 📫 How to reach me **coding812@gmail.com**
 
@@ -38,8 +38,10 @@
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://nepcodex.com/wp-content/uploads/2019/07/Golang-700x395.png" alt="golang" width="65" height="45"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
